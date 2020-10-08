@@ -1,0 +1,8 @@
+name: Psigot
+version: "0.1"
+author: Belial
+main: com.psigot.Psigot.Psigot
+commands:
+  psigot:
+    description: Psigot main command.
+    permission: psigot.command
