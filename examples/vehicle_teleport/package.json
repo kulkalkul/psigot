@@ -1,0 +1,7 @@
+{
+  "name": "vehicle_teleport",
+  "version": "1.0.0",
+  "main": "vehicle_teleport.js",
+  "license": "MIT",
+  "globals": ["command", "util"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "demirci",
+  "version": "1.0.0",
+  "main": "demirci.js",
+  "license": "MIT",
+  "private": true,
+  "globals": ["util", "command", "events"]
+}

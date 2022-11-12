@@ -1,0 +1,7 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "main": "scheduler.js",
+  "license": "MIT",
+  "global": true
+}

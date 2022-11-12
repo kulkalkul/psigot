@@ -1,0 +1,8 @@
+{
+  "name": "buyu",
+  "version": "1.0.0",
+  "main": "buyu.js",
+  "license": "MIT",
+  "private": true,
+  "globals": ["util", "command", "events", "skript"]
+}

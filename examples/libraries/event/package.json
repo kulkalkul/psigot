@@ -1,0 +1,7 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "main": "event.js",
+  "license": "MIT",
+  "global": true,
+}

@@ -1,0 +1,7 @@
+{
+  "name": "util",
+  "version": "1.0.0",
+  "main": "util.js",
+  "license": "MIT",
+  "global": true
+}

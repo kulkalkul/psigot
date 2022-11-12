@@ -1,0 +1,7 @@
+{
+  "name": "yurume",
+  "version": "1.0.0",
+  "main": "yurume.js",
+  "license": "MIT",
+  "globals": ["events"]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "shared_memory",
+    "version": "1.0.0",
+    "main": "shared_memory.js",
+    "license": "MIT",
+    "global": true
+ }
+  

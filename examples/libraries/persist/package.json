@@ -1,0 +1,7 @@
+{
+    "name": "persist",
+    "version": "1.0.0",
+    "main": "persist.js",
+    "license": "MIT",
+    "global": true
+ }

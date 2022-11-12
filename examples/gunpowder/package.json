@@ -1,0 +1,8 @@
+{
+  "name": "gunpowder",
+  "version": "1.0.0",
+  "main": "gunpowder.js",
+  "license": "MIT",
+  "private": true,
+  "globals": ["util", "command", "events"]
+}

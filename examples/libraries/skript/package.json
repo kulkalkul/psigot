@@ -1,0 +1,7 @@
+{
+  "name": "skript",
+  "version": "1.0.0",
+  "main": "skript.js",
+  "license": "MIT",
+  "global": true
+}
