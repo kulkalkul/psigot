@@ -16,7 +16,6 @@ public class sharedNMS_1_15_R1 implements SharedNMS {
 
             syncCommandsMethod.setAccessible(true);
             syncCommandsMethod.invoke(craftServer);
-            syncCommandsMethod.setAccessible(false);
         } catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
         }
